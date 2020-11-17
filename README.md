@@ -16,6 +16,7 @@ I leveraged the OSEMiN (Obtain, Scrub, Explore, Model, Interpret) process for th
 ## Part 1: Obtaining The Data
 
 I collected two different datasets that I then merged together into one combined dataset. For our analysis, we are working with 3,930 different restaurants. The datasets are:
+
 **1. Yelp data:**
    - Collected from the Yelp website using the Yelp API on 8/25/20: https://api.yelp.com/v3/businesses/search
    - Contains information and rating/review details about restaurants from Manhattan. Data on 1,000 restaurants from each Manhattan neighborhood was collected. The list of Manhattan neighborhoods used can be found here:  https://www.nyctourist.com/million-manhattan.htm
@@ -78,7 +79,6 @@ For our analysis, we are using hypothesis testing to evaluate four different que
 **1. Does a restaurant's Yelp rating influence how many Yelp reviews the restaurant will receive?**
     <br>--> Reject Null Hypothesis, indicating a higher Yelp rating does have an impact on the number of Yelp reviews received.<br><br>
 **2. Does a restaurant's inspection grade influence how many Yelp reviews the restaurant will receive?**
-    <br> Result: p-value = 4.302440410486111e-05 <br>
     <br>--> Reject Null Hypothesis, indicating having a higher inspection grade does have an impact on the number of Yelp reviews received.<br><br>
 **3. Does the type of cuisine influence how many Yelp reviews the restaurant will receive?**
     <br>--> Reject Null Hypothesis, indicating some cuisine types do impact the number of Yelp reviews received.<br><br>
