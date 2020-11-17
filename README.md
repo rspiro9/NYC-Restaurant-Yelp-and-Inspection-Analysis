@@ -50,7 +50,7 @@ A variety of different aspects were investigated using EDA. The main focuses wer
 ![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Number%20Reviews%20Per%20Cuisine.png)
 
 **% Of Yelp Rating Per Cuisine Type:** The majority of cuisines have mostly 4.0 ratings, followed by 3.5. In particular, Korean, Seafood, Pizza/Italian, Japanese, and Asian have the most 4.0 ratings. Cafe/Coffee/Tea and Other appear to have the most 5.0 ratings. Mexican, Pizza, Chinese, and Latin appear to have the most lower Yelp ratings.
-![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Percent%20Rating%20Per%20Cuisine.png)
+![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/%25%20Rating%20Per%20Cuisine.png)
 
 **Distribution Of Yelp Rating Per Neighborhood:** On average, many neighborhoods have a similar spread of Yelp ratings, though Morningside Heights has the worst ratings. 
 ![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Yelp%20Review%20Per%20Neighborhood.png)
