@@ -43,7 +43,7 @@ Six different steps were taken to scrub the data and get it ready for analayzing
 A variety of different aspects were investigated using EDA. The main focuses were on the Borough (only for the inspection data), the cuisine type, the Manhattan neighborhood, the inspection grade, and the Yelp ratings.
 
 --> Inspection Grade By Borough: Manhattan has the greatest number of restaurants, and all buroughs have the majority of their restaurants receiving an 'A' grade.
-
+![alt text](http://url/to/img.png)
 
 --> Number Of Yelp Reviews Per Cuisine Type: Korean and Seafood restaurants have the grest number of Yelp reviews on average.
 
