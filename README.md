@@ -75,7 +75,7 @@ Two different analysis were used here, Hypothesis Testing and Machine Learning. 
 
 When doing an analysis, hypothesis testing is often used in order to determine whether or not an outcome is statistically significant. It is important to have a good experimental design in order to ensure that your analysis was run properly and produced trustworthy results. When running a hypothesis test, we must first set our **null and alternative hypotheses.** The null hypothesis is typically that there is no relationship between A and B, with thile alternative hypothesis is your educated guess about the outcome (i.e. A is greater than B). To determine weather we reject or accept our null hypothesis, we look at the relationship between the **p-value**, which is the probability of observing a test statistic at least as large as the one observed, and the **alpha value (𝛼)**, which is the threshold at which we are ok rejecting the null hypothesis. Often, an alpha value of 𝛼=.05 is used, meaning that if our p-value is less than our alpha value of .05 then we can reject the null hypothesis. If we do end up rejecting our null hypothesis, we can then look at the **Effect Size** to determine the difference between the observed groups.
 
-For our analysis, we are using hypothesis testing to evaluate four different questions. We are using an alpha value of .05, meanign that any results with a p-value less than .05 will indicate we should reject the null hypothesis. Below are the four questions along with their outcome:
+For our analysis, we are using hypothesis testing to evaluate four different questions. We are using an alpha value of .05, meaning that any results with a p-value less than .05 will indicate we should reject the null hypothesis. Below are the four questions along with their outcome:
 
 **1. Does a restaurant's Yelp rating influence how many Yelp reviews the restaurant will receive?**
     <br>--> Reject Null Hypothesis, indicating a higher Yelp rating does have an impact on the number of Yelp reviews received.<br><br>
@@ -109,14 +109,14 @@ Within the Random Forest model, here are the most important features:
 ### Hypothesis Test Conclusions:
 Based on these results, there are a few recommendations I would give to current or prospective restaurant owners:
 - Consider either a 1 or 4 dollar sign price level rather than a 2 dollar sign price level as these types of restaurants often receive better inspection grades.
-- Ensure your resturant is up to code and has minimal violations so that you can receive a better inspection grade, which likely will lead to a greater number of Yelp reviews, which in turn can draw more customers into your restaurant.
-- Ensure customers have an enjoyable experience at your resturant so that they will not only give a high Yelp rating, but will also leave a positive review which can encourage other potential customers to try your restaurant.
+- Ensure your restaurant is up to code and has minimal violations so that you are more likely to receive a better inspection grade, which likely will lead to a greater number of Yelp reviews, which in turn can draw more customers into your restaurant.
+- Ensure customers have an enjoyable experience at your restaurant so that they will not only give a high Yelp rating, but will also leave a positive review which can encourage other potential customers to try your restaurant.
 - When trying to ensure a strong inspection grade, cuisine type and neighborhood do not play a significant factor, so no limitations need to be considered in respect to these two aspects.
 
 ### Machine Learning Conclusions:
 From this analysis, a couple of things I would recommend to current or prospective restaurant owners include:
-- If possible, consider opening a restaurant in Morningside Heights, Midtown West, or Greenwich Village as restaurants in these neighborhoods tend to receive higher Yelp ratings and higher ratings can lead to drawing in more customers.
-- Consider serving Traditional American food as this cuisine is likely to lead to a higher Yelp rating.
+- If possible, consider opening a restaurant in Midtown West or Greenwich Village as restaurants in these neighborhoods tend to receive higher Yelp ratings and higher ratings can lead to drawing in more customers. Additionally, avoid opening a restaurant in Morningside Heights as these tend to receive lower Yelp ratings.
+- Avoid receiving a critical violation flag in an inspection as having one of these violations likely leads to lower Yelp ratings, while not having a critical violation flag likely leads to higher Yelp ratings.
 
 ## Watchout
 
