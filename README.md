@@ -43,8 +43,8 @@ Six different steps were taken to scrub the data and get it ready for analayzing
 A variety of different aspects were investigated using EDA. The main focuses were on the Borough (only for the inspection data), the cuisine type, the Manhattan neighborhood, the inspection grade, and the Yelp ratings. Below are a few of the charts created to explore the data.
 
 **Inspection Grade By Borough:** Manhattan has the greatest number of restaurants, and all buroughs have the majority of their restaurants receiving an 'A' grade.
-![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Number%20Restaurants%20Per%20Borough.png)
-![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Inspection%20Grade%20By%20Borough.png)
+<br>![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Number%20Restaurants%20Per%20Borough.png)
+![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Inspection%20Grade%20By%20Borough.png)<br>
 
 **Number Of Yelp Reviews Per Cuisine Type:** Korean and Seafood restaurants have the grest number of Yelp reviews on average.
 ![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Number%20Reviews%20Per%20Cuisine.png)
@@ -61,10 +61,10 @@ A variety of different aspects were investigated using EDA. The main focuses wer
 **Inspection Grade By Price Level:** The cheaper restaurants (1 and 2 Dollar Sign) have the greatest percent of B and C grades, while the most expensive restaurants (4 dollar signs) has the greatest percent of A grades and least percent of B and C grades. Therefore, as price rises, so do the inspection grades.
 ![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Grade%20Per%20Price%20Level.png)
 
-**Inspection Grade By # Of Yelp Reviews And Yelp Rating:** It looks like the greatest number of reviews are typically given to restaurants in the 3.5-4.5 range. Few reviews are given for 5 star or 2 and below stars, though this is likely because few restaurants acheived these ratings.  Additionally, restaurants with a 2.5 rating and a 'C' inspection grade seem to comparatively have a lot of reviews. This is likely because consumers had a bad experienceat the restaurant and want to share their bad experience with others to warn others about the restaurant. We also see some outliers specifically for restaurants with an 'A' grade, indicating that very positive expereince may help encourage consumers to write reviews. 
+**Inspection Grade By # Of Yelp Reviews And Yelp Rating:** It looks like the greatest number of reviews are typically given to restaurants in the 3.5-4.5 range. Few reviews are given for 5 star or 2 and below stars, though this is likely because few restaurants acheived these ratings.  Additionally, restaurants with a 2.5 rating and a 'C' inspection grade seem to comparatively have a lot of reviews. This is likely because consumers had a bad experience at the restaurant and want to share their bad experience with others to warn others about the restaurant. We also see some outliers specifically for restaurants with an 'A' grade, indicating that very positive expereince may help encourage consumers to write reviews. 
 ![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Grade%20By%20Number%20Reviews%20and%20Rating.png)
 
-**Distribution Of Yelp Rating By Price Level:** Restaurants at the highest price level (4 dollar signs) tend to have better Yelp ratings. We all see better Yelp ratings for restaurants with an unknown price level. 
+**Distribution Of Yelp Rating By Price Level:** Restaurants at the highest price level (4 dollar signs) tend to have better Yelp ratings. We also see better Yelp ratings for restaurants with an unknown price level. 
 ![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Price%20Per%20Rating.png)
 
 ## Model
