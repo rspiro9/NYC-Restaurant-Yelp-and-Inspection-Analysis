@@ -97,18 +97,17 @@ Machine Learning is a way to run data analyses by using automated analytical mod
 5. Logistic Regression
 
 As seen below, the Random Forest model was our best model as it had the highest accuracy and F1 score (note: F1 score is a combination of precision and recall).
-![alt text]()
+![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Classification%20Results.png)
 
 Within the Random Forest model, here are the most important features:
-![alt text]()
-
+![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Important%20Features.png)
 
 
 ## Conclusions
 
 ### Hypothesis Test Conclusions:
 Based on these results, there are a few recommendations I would give to current or prospective restaurant owners:
-- Consider either a 1 or 4 dollar sign price level rather than a 2 dollar sign price level as these types of restaurants often receive better inspection grades.
+- Consider a 4 dollar sign price level rather than a 2 dollar sign price level as these types of restaurants often receive better inspection grades. 
 - Ensure your restaurant is up to code and has minimal violations so that you are more likely to receive a better inspection grade, which likely will lead to a greater number of Yelp reviews, which in turn can draw more customers into your restaurant.
 - Ensure customers have an enjoyable experience at your restaurant so that they will not only give a high Yelp rating, but will also leave a positive review which can encourage other potential customers to try your restaurant.
 - When trying to ensure a strong inspection grade, cuisine type and neighborhood do not play a significant factor, so no limitations need to be considered in respect to these two aspects.
@@ -116,11 +115,11 @@ Based on these results, there are a few recommendations I would give to current 
 ### Machine Learning Conclusions:
 From this analysis, a couple of things I would recommend to current or prospective restaurant owners include:
 - If possible, consider opening a restaurant in Midtown West or Greenwich Village as restaurants in these neighborhoods tend to receive higher Yelp ratings and higher ratings can lead to drawing in more customers. Additionally, avoid opening a restaurant in Morningside Heights as these tend to receive lower Yelp ratings.
-- Avoid receiving a critical violation flag in an inspection as having one of these violations likely leads to lower Yelp ratings, while not having a critical violation flag likely leads to higher Yelp ratings.
+Avoid receiving a critical violation flag in an inspection as having one of these violations likely leads to lower Yelp ratings, while not having a critical violation flag likely leads to higher Yelp ratings.
 
 ## Watchout
 
-One watchout I want to mention is that the data for this analysis was pulled in August 2020, during the Coronavirus pandemic. This pandemic has hit restaurants especially hard, with many restaurants temporarily or permanently closing down. It seems as thourhg Yelp has done a descent job of identifying resturants that are open vs. closed, though I would guess that the data is not 100% accurate as restaurants' statuses were constantly changing during this time. Therefore, the dataset may include some restaurants that are no longer in business.
+One watchout I want to mention is that the data for this analysis was pulled in August 2020, during the Coronavirus pandemic. This pandemic has hit restaurants especially hard, with many restaurants temporarily or permanently closing down. It seems as though Yelp has done a descent job of identifying resturants that are open vs. closed, though I would guess that the data is not 100% accurate as restaurants' statuses were constantly changing during this time. Therefore, the dataset may include some restaurants that are no longer in business, or may have falsely excluded some restaurants that were in business.
 
 ## Next Steps and Recommendations
 A few things to look into next:
