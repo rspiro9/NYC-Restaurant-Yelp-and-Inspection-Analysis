@@ -115,7 +115,7 @@ Based on these results, there are a few recommendations I would give to current 
 ### Machine Learning Conclusions:
 From this analysis, a couple of things I would recommend to current or prospective restaurant owners include:
 - If possible, consider opening a restaurant in Midtown West or Greenwich Village as restaurants in these neighborhoods tend to receive higher Yelp ratings and higher ratings can lead to drawing in more customers. Additionally, avoid opening a restaurant in Morningside Heights as these tend to receive lower Yelp ratings.
-Avoid receiving a critical violation flag in an inspection as having one of these violations likely leads to lower Yelp ratings, while not having a critical violation flag likely leads to higher Yelp ratings.
+- Avoid receiving a critical violation flag in an inspection as having one of these violations likely leads to lower Yelp ratings, while not having a critical violation flag likely leads to higher Yelp ratings.
 
 ## Watchout
 
