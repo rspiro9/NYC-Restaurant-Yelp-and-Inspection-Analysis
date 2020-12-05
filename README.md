@@ -65,7 +65,7 @@ A variety of different aspects were investigated using EDA. The main focuses wer
 ![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Grade%20By%20Number%20Reviews%20and%20Rating.png)
 
 **Distribution Of Yelp Rating By Price Level:** Restaurants at the highest price level (4 dollar signs) tend to have better Yelp ratings. We also see better Yelp ratings for restaurants with an unknown price level. 
-![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Price%20Per%20Rating.png)
+![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Prices%20Per%20Rating.png)
 
 ## Model 
 
