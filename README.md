@@ -67,7 +67,7 @@ A variety of different aspects were investigated using EDA. The main focuses wer
 **Distribution Of Yelp Rating By Price Level:** Restaurants at the highest price level (4 dollar signs) tend to have better Yelp ratings. We also see better Yelp ratings for restaurants with an unknown price level. 
 ![alt text](https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/Images/Price%20Per%20Rating.png)
 
-## Model
+## Model 
 
 Two different analysis were used here, Hypothesis Testing and Machine Learning. Each analysis can be found in its own notebook, ('2. Hypothesis Testing' and '3. Machine Learning(Classification)')
 
