@@ -78,7 +78,7 @@ When doing an analysis, hypothesis testing is often used in order to determine w
 For our analysis, we are using hypothesis testing to evaluate four different questions. We are using an alpha value of .05, meaning that any results with a p-value less than .05 will indicate we should reject the null hypothesis. Below are the four questions along with their outcome:
 
 **1. Does a restaurant's Yelp rating influence how many Yelp reviews the restaurant will receive?**
-    <br>--> Reject Null Hypothesis, indicating a higher Yelp rating does lead to having a greate number of Yelp reviews received. However, the effect of this is very small.<br><br>
+    <br>--> Reject Null Hypothesis, indicating a higher Yelp rating does lead to having a greater number of Yelp reviews received. However, the effect of this is very small.<br><br>
 **2. Does a restaurant's inspection grade influence how many Yelp reviews the restaurant will receive?**
     <br>--> Reject Null Hypothesis, indicating having a higher inspection grade does lead to having a higher number of Yelp reviews received, though the effect size is small.<br><br>
 **3. Does the type of cuisine influence how many Yelp reviews the restaurant will receive?**
